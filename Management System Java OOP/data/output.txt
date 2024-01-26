@@ -1,0 +1,474 @@
+Loading from Person table...
+Loading from Person table...
+Loading from Person table...
+Loading from Person table...
+Loading from Person table...
+Loading from Person table...
+Loading from Person table...
+Loading from Person table...
+Loading from Person table...
+Loading from Person table...
+Loading from Person table...
+Loading from Person table...
+Loading from Person table...
+Loading from Person table...
+Generating Summary Report -- By Total...
+--------------------------------------------------------------------------------------------|
+|-------------------------------------------------------------------------------------------|
+Store Summary Report -- By Total
+|-------------------------------------------------------------------------------------------|
+Invoice#        Store           Customer             NumItems        Tax             Total
+INV009          Store4          Taylor, Henry          	2          $1585.80         $ 533452.47
+INV003          Store3          Lee, Alexander      	3          $22.77           $ 135682.77
+INV001          Store1          Taylor, Henry          	4          $614.84          $ 115001.51
+INV007          Store6          Clark, Mia            	3          $96.52           $ 66446.52
+INV006          Store5          Taylor, Henry          	2          $58.65           $ 1758.65
+INV004          Store2          Anderson, Emma           	1          $51.75           $ 1551.75
+INV005          Store4          Harris, Samuel         	3          $96.51           $ 1446.51
+INV002          Store1          Moore, Grace          	1          $35.75           $ 535.75
+INV008          Store4          Turner, Abigail        	0          $0.00            $ 0.00
+-------------------------------------------------------------------------------------------
+													   19         $2562.59         $ 855875.93
+Generating Summary Reports...
+--------------------------------------------------------------------------------------------|
+Loading from Person table...
+Loading from Person table...
+Loading from Person table...
+Loading from Person table...
+Loading from Person table...
+Loading from Person table...
+Loading from Person table...
+Loading from Person table...
+Loading from Person table...
+Loading from Person table...
+Loading from Person table...
+Loading from Person table...
+Loading from Person table...
+Loading from Person table...
+com.fmt.Store@157853da
+com.fmt.Store@71c3b41
+com.fmt.Store@236e3f4e
+com.fmt.Store@3cc1435c
+com.fmt.Store@6bf0219d
+com.fmt.Store@dd0c991
+com.fmt.Store@5f16132a
+com.fmt.Store@69fb6037
++----------------------------------------------------------------+
+| Store Sales Summary Report                                     |
++----------------------------------------------------------------+
+Store Code:     Manager Name:                  Number of Sales: Grand Total
+Store4          Williams, Jackson              6               1069797.96
+Store3          Williams, Jackson              2               271365.54
+Store1          Williams, Jackson              4               231074.52
+Store6          Johnson, Lucas                 2               132893.04
+Store5          Miller, Olivia                 2               3517.3
+Store2          Miller, Olivia                 2               3103.5
+Store7          Davis, Benjamin                0               0.0
+Store8          Brown, Ethan                   0               0.0
++-----------------------------------------------------------------------------------+
+						 					   18              $1711751.86     
+Generating Invoice SUmmary Reports...
+--------------------------------------------------------------------------------------------|
+
+
+Invoice
+	#INV001
+Store	Store1
+Date	2022-02-26
+Customer: Person's Id0
+Person's Code: TYP2001
+Person Full Name: Taylor, Henry
+Address of Person: 
+Street: 4444 Cedar Avenue 
+City: Orlando 
+State: VA 
+Zip: 32801 
+Country: USA 
+Emails of Person: [Henry123455.Henry@this.com, Henry1234@upenn.edu] 
+
+SalesPerson: Person's Id0
+Person's Code: TYP1001
+Person Full Name: Williams, Jackson
+Address of Person: 
+Street: 1234 Elm Street 
+City: Chicago 
+State: GA 
+Zip: 60601 
+Country: USA 
+Emails of Person: [crimsonQueen@yahoo.com.vn, squarry0@salon.com, trayman0@sitemeter.com]
+Item								 Total
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+		-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Purchase: 
+ 
+Total:60000.0
+Model: HarvestMaster 5000
+Code: IEQ001
+Name: Harvester
+
+Lease: 
+ThirtyDayFee: 4000.0
+Start Date of Lease: 2022-02-02
+End Date Of Lease: 2023-03-03
+Taxes: 500.0
+Days: 395
+Subtotal: 52666.67
+Total: 53166.67
+
+Product : 
+
+Unit Price:30.0
+Quantity: 50.0
+Subtotal: 1500.0
+
+com.fmt.Service@5552768b
+
+-=-=-=-=-=-=-=-=-=-							-=-=-=-=-=-=-=-=-=-
+		                     Subtotal $ 114386.67
+		                     Tax $ 614.84
+		                     Grand Total $ 115001.51
+
+
+Invoice
+	#INV002
+Store	Store1
+Date	2022-04-23
+Customer: Person's Id0
+Person's Code: TYP2006
+Person Full Name: Moore, Grace
+Address of Person: 
+Street: 8888 Elm Drive 
+City: San Diego 
+State: MD 
+Zip: 92101 
+Country: USA 
+Emails of Person: [Gracecoweg@fGraceacebook.com, Gracevwpseuig@Graceharvard.edu] 
+
+SalesPerson: Person's Id0
+Person's Code: TYP1004
+Person Full Name: Smith, Sophia
+Address of Person: 
+Street: 4567 Birch Lane 
+City: San Francisco 
+State: AL 
+Zip: 94101 
+Country: USA 
+Emails of Person: [cbrine3@webnode.com, forVahala1992@crystal.com, skyrimBelongtotheNord666@gmail.com]
+Item								 Total
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+		-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Product : 
+
+Unit Price:25.0
+Quantity: 20.0
+Subtotal: 500.0
+
+-=-=-=-=-=-=-=-=-=-							-=-=-=-=-=-=-=-=-=-
+		                     Subtotal $ 500.00
+		                     Tax $ 35.75
+		                     Grand Total $ 535.75
+
+
+Invoice
+	#INV003
+Store	Store3
+Date	2022-03-13
+Customer: Person's Id0
+Person's Code: TYP2003
+Person Full Name: Lee, Alexander
+Address of Person: 
+Street: 6666 Birch Road 
+City: Washington 
+State: AL 
+Zip: 20001 
+Country: USA 
+Emails of Person: [Alexande431r@Alexanderhmail.com, Alexander124@parallels.com] 
+
+SalesPerson: Person's Id0
+Person's Code: TYP1001
+Person Full Name: Williams, Jackson
+Address of Person: 
+Street: 1234 Elm Street 
+City: Chicago 
+State: GA 
+Zip: 60601 
+Country: USA 
+Emails of Person: [crimsonQueen@yahoo.com.vn, squarry0@salon.com, trayman0@sitemeter.com]
+Item								 Total
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+		-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Purchase: 
+ 
+Total:70000.0
+Model: GrassMaster GX-300
+Code: IEQ007
+Name: Mower
+
+Purchase: 
+ 
+Total:65000.0
+Model: GrassMaster GX-300
+Code: IEQ007
+Name: Mower
+
+com.fmt.Service@3c947bc5
+
+-=-=-=-=-=-=-=-=-=-							-=-=-=-=-=-=-=-=-=-
+		                     Subtotal $ 135660.00
+		                     Tax $ 22.77
+		                     Grand Total $ 135682.77
+
+
+Invoice
+	#INV004
+Store	Store2
+Date	2022-03-16
+Customer: Person's Id0
+Person's Code: TYP2002
+Person Full Name: Anderson, Emma
+Address of Person: 
+Street: 5555 Pine Street 
+City: Atlanta 
+State: TX 
+Zip: 30301 
+Country: USA 
+Emails of Person: [Emma13@ning.com] 
+
+SalesPerson: Person's Id0
+Person's Code: TYP1002
+Person Full Name: Miller, Olivia
+Address of Person: 
+Street: 5678 Oak Avenue 
+City: New York 
+State: OJ 
+Zip: 10001 
+Country: USA 
+Emails of Person: [ccrannage1@digg.com, minamiCrimson@gmail.com]
+Item								 Total
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+		-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+com.fmt.Service@609db43b
+
+-=-=-=-=-=-=-=-=-=-							-=-=-=-=-=-=-=-=-=-
+		                     Subtotal $ 1500.00
+		                     Tax $ 51.75
+		                     Grand Total $ 1551.75
+
+
+Invoice
+	#INV005
+Store	Store4
+Date	2022-03-23
+Customer: Person's Id0
+Person's Code: TYP2005
+Person Full Name: Harris, Samuel
+Address of Person: 
+Street: 8888 Elm Drive 
+City: San Diego 
+State: MD 
+Zip: 92101 
+Country: USA 
+Emails of Person: [Samuel13232gsdg@businesswire.com, Samuelasgeh@yahoo.com] 
+
+SalesPerson: Person's Id0
+Person's Code: TYP1001
+Person Full Name: Williams, Jackson
+Address of Person: 
+Street: 1234 Elm Street 
+City: Chicago 
+State: GA 
+Zip: 60601 
+Country: USA 
+Emails of Person: [crimsonQueen@yahoo.com.vn, squarry0@salon.com, trayman0@sitemeter.com]
+Item								 Total
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+		-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Product : 
+
+Unit Price:30.0
+Quantity: 15.0
+Subtotal: 450.0
+
+Product : 
+
+Unit Price:30.0
+Quantity: 15.0
+Subtotal: 450.0
+
+Product : 
+
+Unit Price:30.0
+Quantity: 15.0
+Subtotal: 450.0
+
+-=-=-=-=-=-=-=-=-=-							-=-=-=-=-=-=-=-=-=-
+		                     Subtotal $ 1350.00
+		                     Tax $ 96.51
+		                     Grand Total $ 1446.51
+
+
+Invoice
+	#INV006
+Store	Store5
+Date	2022-03-29
+Customer: Person's Id0
+Person's Code: TYP2001
+Person Full Name: Taylor, Henry
+Address of Person: 
+Street: 4444 Cedar Avenue 
+City: Orlando 
+State: VA 
+Zip: 32801 
+Country: USA 
+Emails of Person: [Henry123455.Henry@this.com, Henry1234@upenn.edu] 
+
+SalesPerson: Person's Id0
+Person's Code: TYP1006
+Person Full Name: Jones, Ava
+Address of Person: 
+Street: 1111 Cedar Court 
+City: Austin 
+State: VA 
+Zip: 78701 
+Country: USA 
+Emails of Person: [ajenton5@eepurl.com, gerad.Harad1009@that.com, potteralex457@witcher.com, potteralex457@yahoo.com]
+Item								 Total
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+		-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+com.fmt.Service@55f616cf
+
+com.fmt.Service@1356d4d4
+
+-=-=-=-=-=-=-=-=-=-							-=-=-=-=-=-=-=-=-=-
+		                     Subtotal $ 1700.00
+		                     Tax $ 58.65
+		                     Grand Total $ 1758.65
+
+
+Invoice
+	#INV007
+Store	Store6
+Date	2022-04-03
+Customer: Person's Id0
+Person's Code: TYP1008
+Person Full Name: Clark, Mia
+Address of Person: 
+Street: 3333 Willow Lane 
+City: Miami 
+State: CB 
+Zip: 33101 
+Country: USA 
+Emails of Person: [] 
+
+SalesPerson: Person's Id0
+Person's Code: TYP1008
+Person Full Name: Clark, Mia
+Address of Person: 
+Street: 3333 Willow Lane 
+City: Miami 
+State: CB 
+Zip: 33101 
+Country: USA 
+Emails of Person: []
+Item								 Total
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+		-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Purchase: 
+ 
+Total:65000.0
+Model: AgriSpread Elite-200
+Code: IEQ006
+Name: Fertilizer Spreader
+
+Product : 
+
+Unit Price:30.0
+Quantity: 15.0
+Subtotal: 450.0
+
+Product : 
+
+Unit Price:30.0
+Quantity: 30.0
+Subtotal: 900.0
+
+-=-=-=-=-=-=-=-=-=-							-=-=-=-=-=-=-=-=-=-
+		                     Subtotal $ 66350.00
+		                     Tax $ 96.52
+		                     Grand Total $ 66446.52
+
+
+Invoice
+	#INV008
+Store	Store4
+Date	2022-04-08
+Customer: Person's Id0
+Person's Code: TYP2004
+Person Full Name: Turner, Abigail
+Address of Person: 
+Street: 7777 Oak Lane 
+City: Boston 
+State: CA 
+Zip: 02101 
+Country: USA 
+Emails of Person: [Abigail13rfg@engineering.com, Abigailqfowuag@gmail.com, Abigailqiwuegf@hubpages.com, Abigailqwifug@haha.com] 
+
+SalesPerson: Person's Id0
+Person's Code: TYP1005
+Person Full Name: Brown, Ethan
+Address of Person: 
+Street: 7890 Pine Road 
+City: Seattle 
+State: MN 
+Zip: 98101 
+Country: USA 
+Emails of Person: [potteralex457@red.com, rhaggerwood4@histats.com]
+Item								 Total
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+		-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+-=-=-=-=-=-=-=-=-=-							-=-=-=-=-=-=-=-=-=-
+		                     Subtotal $  0.00
+		                     Tax $  0.00
+		                     Grand Total $  0.00
+
+
+Invoice
+	#INV009
+Store	Store4
+Date	2022-04-11
+Customer: Person's Id0
+Person's Code: TYP2001
+Person Full Name: Taylor, Henry
+Address of Person: 
+Street: 4444 Cedar Avenue 
+City: Orlando 
+State: VA 
+Zip: 32801 
+Country: USA 
+Emails of Person: [Henry123455.Henry@this.com, Henry1234@upenn.edu] 
+
+SalesPerson: Person's Id0
+Person's Code: TYP1007
+Person Full Name: Davis, Benjamin
+Address of Person: 
+Street: 2222 Redwood Street 
+City: London 
+State: BB 
+Zip: 87710 
+Country: TKM 
+Emails of Person: [Benjamin@yahoo.com]
+Item								 Total
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+		-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Lease: 
+ThirtyDayFee: 40000.0
+Start Date of Lease: 2021-01-01
+End Date Of Lease: 2022-02-02
+Taxes: 1500.0
+Days: 398
+Subtotal: 530666.67
+Total: 532166.67
+
+Product : 
+
+Unit Price:20.0
+Quantity: 60.0
+Subtotal: 1200.0
+
+-=-=-=-=-=-=-=-=-=-							-=-=-=-=-=-=-=-=-=-
+		                     Subtotal $ 531866.67
+		                     Tax $ 1585.80
+		                     Grand Total $ 533452.47
+-----------------------------------
+Summary Reports generated successfully!
